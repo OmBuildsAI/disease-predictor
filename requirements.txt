@@ -1,6 +1,6 @@
 pandas
 numpy
-matplotib
+matplotlib
 seaborn
 scikit-learn
 imblearn
